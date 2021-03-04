@@ -8,6 +8,8 @@
 
 [EJERCICIOS PYTHON](https://github.com/JavIer-SS/Mineria--Datos/blob/main/EJERCICIOS%20PYTHON.ipynb)
 
+[EJ LIMPIEZA DE DATOS, EQUIPO 8](https://github.com/JavIer-SS/Mineria--Datos/blob/main/Ej_Limpieza_Equipo8.ipynb)
+
 [AVANCE 1 PIA, EQUIPO 8](https://github.com/JavIer-SS/Mineria--Datos/blob/main/Avance1_PIA_Equipo8.ipynb)
 
 ## Fase 2
