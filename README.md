@@ -14,6 +14,8 @@
 
 [PRESENTACIÓN OUTLIERS, EQUIPO 8](https://github.com/JavIer-SS/Mineria--Datos/blob/main/Presentacion_OUTLIERS_Equipo8.pdf)
 
+[CALIFICACIÓNES OUTLIERS , KAHOOT EQUIPO 8](https://github.com/JavIer-SS/Mineria--Datos/blob/main/Calificaci%C3%B3n_OUTLIERS_Equipo-8.pdf)
+
 ## Fase 2
 
 
