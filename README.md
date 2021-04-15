@@ -17,6 +17,7 @@
 [CALIFICACIÓNES OUTLIERS , KAHOOT EQUIPO 8](https://github.com/JavIer-SS/Mineria--Datos/blob/main/Calificaci%C3%B3n_OUTLIERS_Equipo-8.pdf)
 
 ## Fase 2
-
+[Visualización Equipo 8]()
+[Avance II PIA Equipo 8]()
 
 ## Fase 3
