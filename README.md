@@ -18,6 +18,7 @@
 
 ## Fase 2
 [Visualización Equipo 8](https://github.com/JavIer-SS/Mineria--Datos/blob/main/Visualizacion_Equipo8.ipynb)
+
 [Avance II PIA Equipo 8](https://github.com/JavIer-SS/Mineria--Datos/blob/main/AvancePIA_II_Grupo02_Equipo8%20.ipynb)
 
 ## Fase 3
