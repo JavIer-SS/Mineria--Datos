@@ -26,3 +26,4 @@
 [Avance II PIA Equipo 8, CAMBIOS , VERSION 2](https://github.com/JavIer-SS/Mineria--Datos/blob/main/AvancePIA_II_Grupo02_Equipo8%20(Versi%C3%B3n%202).ipynb)
 
 ## Fase 3
+[AVANCE POSTER PIA EQUIPO 8](https://github.com/JavIer-SS/Mineria--Datos/blob/main/Primer%20Avance%20Poster%20PIA.pdf)
