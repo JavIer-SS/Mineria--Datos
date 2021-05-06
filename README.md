@@ -27,3 +27,4 @@
 
 ## Fase 3
 [AVANCE POSTER PIA EQUIPO 8](https://github.com/JavIer-SS/Mineria--Datos/blob/main/Primer%20Avance%20Poster%20PIA.pdf)
+[POSTER FINAL EQUIPO 8 PIA](https://github.com/JavIer-SS/Mineria--Datos/blob/main/P%C3%B3ster%20%20PIA%20EQUIPO%208%20%20LA%20LOCAL%C3%8DA%20DE%20LA%20SELECCI%C3%93N%20MEXICANA.pdf)
